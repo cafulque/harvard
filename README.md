@@ -1,6 +1,7 @@
 # harvard
 Final Project - HarvardX CS50x
 CS50's Introduction to Computer Science
+Programmer: Carlos Fulqueris
 
 This repository contains my final project for HarvardX CS50x - CS50's
 Introduction to Computer Science, developed individually in Java.
@@ -24,4 +25,16 @@ Notes
 
   •	This project emphasizes fundamentals of computer science and Java programming rather than full-stack implementation.
   •	The SQL components (v2.9) serve as a conceptual demonstration and are not connected to a database.
+
+Upgrades
+
+•	I faced difficulties due to my limited knowledge of some programming tools.
+•	I had problems with the IDE, including understanding its installation, APIs, and extensions.
+•	I tried to acquire additional knowledge through other sources, such as YouTube courses.
+•	I initially uploaded partial versions of the project to meet submission deadlines.
+•	These versions were functional but did not fully meet my expectations.
+•	Later, I deleted them to keep only the final version, ensuring it was functional.
+•	I started with version 1.1.0 and finished with version 3.2.0, which includes processes with CSV files and handling of SQL Server tables.
+•	Much of what I implemented was based on knowledge I had from other programming languages.
+
 
