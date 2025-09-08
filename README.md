@@ -7,6 +7,7 @@ Introduction to Computer Science, developed individually in Java.
 The project applies core computer science concepts and demonstrates object-oriented programming with classes, objects, and collections.
 
 Features
+
 •	Object-Oriented Design: Implementation of multiple classes with attributes, constructors, and methods.
 •	Collections: Use of Java collections to organize and manipulate data.
 •	Console Input: Program accepts arguments from the command line, with a default handled through a Path.
