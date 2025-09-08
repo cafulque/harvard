@@ -9,13 +9,21 @@ The project applies core computer science concepts and demonstrates object-orien
 Features
 
 •	Object-Oriented Design: Implementation of multiple classes with attributes, constructors, and methods.
+
 •	Collections: Use of Java collections to organize and manipulate data.
+
 •	Console Input: Program accepts arguments from the command line, with a default handled through a Path.
+
 •	Accessors and Mutators: Includes getters and setters; some are not currently used but were generated to support future development and scalability.
+
 •	SQL Version (v2.9):
+
 o	Version 2.9 is dedicated to SQL-related features.
+
 o	It introduces conceptual SQL statements, meant to illustrate how a database layer could be integrated.
+
 o	These statements remain conceptual only, as some database-related classes were incomplete or not fully covered in the course.
+
 o	For clarification, see the explanation included at the end of the MAIN class.
 
 Notes
