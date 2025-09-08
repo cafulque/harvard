@@ -1,5 +1,5 @@
 # harvard
-Final Project – HarvardX CS50x
+Final Project - HarvardX CS50x
 CS50's Introduction to Computer Science
 
 This repository contains my final project for HarvardX CS50x - CS50's
@@ -19,6 +19,7 @@ o	These statements remain conceptual only, as some database-related classes were
 o	For clarification, see the explanation included at the end of the MAIN class.
 
 Notes
+
 •	This project emphasizes fundamentals of computer science and Java programming rather than full-stack implementation.
 •	The SQL components (v2.9) serve as a conceptual demonstration and are not connected to a database.
 
